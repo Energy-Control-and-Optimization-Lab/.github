@@ -1,11 +1,6 @@
-## Introduction
-The Energy Control and Optimization (ECO) Lab at the University of New Hampshire welcomes all passionate students interested in renewable energy and enthusiastic about contributing to an interdisciplinary research group. Our lab fosters a collaborative environment where students can develop innovative solutions to energy challenges. 
-# Research Focus
-ECO Lab is an interdisciplinary group with expertise spanning control, power systems, and mechanical design. We leverage advanced methodologies, including reinforcement learning and machine learning algorithms, to address challenges in ocean energy. Our close collaboration with the Ocean Engineering program provides an optimal environment for research endeavors in the marine energy domain. 
+# Welcome to the Energy Control and Optimization (ECO) Lab's GitHub page!
+The Energy Control and Optimization (ECO) Lab enhances ocean renewable energy and ocean sustainability by leveraging advanced design, control, and optimization approaches. The ECO Lab is led by Professor Arezoo Hasankhani in the Electrical and Computer Engineering at University of New Hampshire.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+# What can you find here?
+This GitHub stores scripts developed or used by our lab for our research projects. It also includes repositories with associated materials for our publications.
