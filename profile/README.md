@@ -1,5 +1,5 @@
 # Welcome to the Energy Control and Optimization (ECO) Lab's GitHub page!
-The Energy Control and Optimization (ECO) Lab enhances ocean renewable energy and ocean sustainability by leveraging advanced design, control, and optimization approaches. The ECO Lab is led by Professor Arezoo Hasankhani in the Electrical and Computer Engineering at University of New Hampshire.
+The Energy Control and Optimization (ECO) Lab enhances ocean energy and ocean sustainability by leveraging advanced design, control, and optimization approaches. The ECO Lab is led by Professor Arezoo Hasankhani in the Electrical and Computer Engineering at University of New Hampshire.
 
 
 # What can you find here?
